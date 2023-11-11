@@ -4,11 +4,11 @@
 <br/ >
 
 <div align="justify">
-• Este é o perfil no GitHub da Sociedade Brasileira de Biologia Evolutiva.
+• Este é o perfil no GitHub da <i>Sociedade Brasileira de Biologia Evolutiva</i>.
  </div>
 </p>
 <div align="justify"> 
-• This is the GitHub profile of the Brazilian Society for Evolutionary Biology.
+• This is the GitHub profile of the <i>Brazilian Society for Evolutionary Biology</i>.
  </div>
 
  </div>
