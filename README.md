@@ -27,5 +27,5 @@
 </p>
  </div>
 
-![Snake animation](https://github.com/g-pacheco/g-pacheco/blob/output/github-contribution-grid-snake.svg)  
-[Crazy Snake](https://github.com/Platane/snk) devouring my _scarce_ commits!
+![Snake animation](https://github.com/sbbe-oficial/sbbe-oficial/blob/output/github-contribution-grid-snake.svg)  
+[Livid Snake](https://github.com/Platane/snk) gobbing our _slick_ commits!
