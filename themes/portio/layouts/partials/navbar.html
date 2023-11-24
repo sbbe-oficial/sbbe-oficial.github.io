@@ -1,0 +1,40 @@
+<nav class="navbar navbar-expand-lg fixed-top">
+  <div class="container">
+    <a href="{{ .Site.BaseURL }}" class="navbar-brand">
+      <img src="images/logo3.png" alt="site-logo" width="100" height="100" />
+    </a>
+    <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#navbarCollapse">
+      <span class="navbar-toggler-icon"></span>
+      <span class="navbar-toggler-icon"></span>
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+      <ul class="nav navbar-nav main-navigation my-0 mx-auto">
+         <li class="nav-item">
+          <a href="#about"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Sobre</a>
+        </li>
+        <li class="nav-item">
+          <a href="#board"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Diretoria</a>
+        </li>
+        <li class="nav-item">
+          <a href="#statute"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Estatuto</a>
+        </li>
+        <li class="nav-item">
+          <a href="#contact"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Contato</a>
+        </li>
+        <li class="nav-item">
+          <a href="#footer"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Congresso</a>
+        </li>
+      </ul>
+      <div class="navbar-nav">
+        <a href="" class="btn btn-primary btn-zoom hire_button">Afilie-se</a>
+      </div>
+    </div>
+  </div>
+</nav>

@@ -1,0 +1,10 @@
+---
+enable: true
+content: >
+  # Sociedade Brasileira de Biologia Evolutiva
+
+  A SBBE impulsiona a Biologia Evolutiva no Brasil, promovendo pesquisa, representação e difusão do conhecimento científico.
+
+buttonName: Sobre nós
+buttonURL: "#about"
+image: images/sapo.png

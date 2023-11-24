@@ -1,0 +1,949 @@
+---
+enable: true
+title: >
+  ## Estatuto Social
+
+tab1Name: Capítulo I
+tab2Name: Capítulo II
+tab3Name: Capítulo III
+tab4Name: Capítulo IV
+tab5Name: Capítulo V
+tab6Name: Capítulo VI
+tab7Name: Capítulo VII
+tab1Target: cap1
+tab2Target: cap2
+tab3Target: cap3
+tab4Target: cap4
+tab5Target: cap5
+tab6Target: cap6
+tab7Target: cap7
+
+titlecap1:  Da denominação, sede, finalidade, duração e natureza
+cap1:
+
+  - content: >
+      A Sociedade Brasileira de Biologia Evolutiva, doravante denominada SBBE, é uma pessoa jurídica de direito privado, constituída sob a forma de Associação Civil, sem fins econômicos, com intuitos científicos, educacionais, sociais e políticos, regida por este Estatuto Social e pelas disposições normativas aplicáveis. 
+
+
+      **§1º** A organização e funcionamento da SBBE são estabelecidos através de Regimento Interno e demais documentos, elaborados pela Diretoria Administrativa e aprovados em Assembleia Geral, observado o disposto neste Estatuto Social. 
+
+
+      **§2°** A sede da SBBE está localizada no endereço Laboratório de Citogenética Evolutiva e Conservação Animal, Departamento de Genética, Setor de Ciências Biológicas, Universidade Federal do Paraná, Avenida Coronel Francisco H. dos Santos, 210 — Jardim das Américas, Curitiba — PR, 81530-001, Brasil.
+
+    time: Art. 1°
+
+  - content: >
+        O prazo de duração da SBBE é indeterminado. 
+
+    time: Art. 2º
+
+titlecap2: Dos princípios e objetivos sociais
+cap2:
+
+  - content: >
+      A SBBE adota como princípios: 
+
+        I - O absoluto compromisso com o método científico e com o uso de evidências científicas como princípio norteador das condutas sociais;
+        
+        II - a visibilidade às minorias sociais; 
+
+        III - a igualdade de gênero;
+
+        IV - o respeito à diversidade; 
+
+        V - a inclusão; 
+
+        VI -  a ética; 
+
+        VII - a eficiência; 
+
+        VIII - a cooperação;
+
+        IX - a transparência financeira; 
+
+        X - a comunicação transparente; 
+
+        XI - a difusão e instrumentalização da pesquisa produzida; 
+
+        XII - o incentivo à produção científica inovadora.
+
+    time: Art. 3°
+
+  - content: >
+        A SBBE tem por objetivos: 
+          
+          I - congregar e promover a comunicação entre os(as) estudiosos(as) do campo da Biologia Evolutiva;
+          
+          II - promover e incentivar atividades e estudos relacionados à Biologia Evolutiva; 
+          
+          III - estimular o contato com sociedades internacionais e nacionais de mesma finalidade;
+          
+          IV - representar os(as) biólogos(as) evolutivos(as) brasileiros(as) junto à Comunidade Científica Nacional e Internacional, assim como perante entidades governamentais e privadas;
+          
+          V - promover a difusão do conhecimento da Biologia Evolutiva junto à sociedade brasileira, incluindo a promoção de evidências científicas em Biologia Evolutiva como norteadoras de políticas públicas;
+          
+          VI - incentivar a criação de cursos de Biologia Evolutiva em níveis de graduação e pós-graduação.
+
+        **§1°** Para cumprir os objetivos acima estabelecidos, a SBBE poderá: 
+          
+          a) Produzir, publicar, distribuir e divulgar artigos, livros, revistas, vídeos, filmes, fotos e similares; 
+          
+          b) Documentar, por todos os meios, suas diversas atividades, assim como fatos e situações que tiverem relação com suas finalidades; 
+          
+          c) Firmar contratos e convênios e/ou associar-se com outras pessoas, naturais ou jurídicas, públicas ou privadas, desde que a SBBE não se submeta ao(à) parceiro(a);
+          
+          d) Arrecadar recursos financeiros de doadores(as), seja pessoa natural ou jurídica, associado(a) ou não; 
+          
+          e) Desenvolver meios de comunicação em diversas mídias a fim de promover suas ações e divulgar suas pesquisas; 
+          
+          f) Relacionar-se e vincular-se institucionalmente e nos limites da realização de seus objetivos com demais associações e empresas; 
+          
+          g) Promover reuniões periódicas para a apresentação e discussão de trabalhos e para fomentar o intercâmbio de ideias entre os(as) seus(suas) associados(as);
+          
+          h) Realizar eventos científicos (congressos, simpósios, conferências, workshops), quando se reunirão os(as) seus(suas) associados(as), a fim de discutir trabalhos apresentados;
+          
+          i) Promover e patrocinar a formação de núcleos regionais da presente associação;
+          
+          j) Promover conferências de vulgarização, divulgação científica e cursos diversos de Biologia Evolutiva e assuntos relacionados;
+          
+          k) Conceder auxílios financeiros para formação de biólogos(as) evolutivos(as) em território nacional e internacional;
+          
+          l) Realizar outras atividades condizentes com os objetivos estatutários.
+
+          **§2°** As ações previstas nos itens H, I e K acima serão detalhadamente regulamentadas aos(às) membros(as) por meio de documento produzido e divulgado pela Diretoria Administrativa.
+
+
+    time: Art. 4º
+
+  - content: >
+      A SBBE, na realização de suas atividades, não permitirá nenhum tipo de discriminação por qualquer motivo, prezando pela ética e efetivação dos direitos humanos, efetivação esta que é fundamental para a boa atuação da sociedade.
+
+
+    time: Art. 5°
+
+titlecap3: Do patrimônio, da receita e da aplicação dos recursos
+cap3:
+
+  - content: >
+      O patrimônio da SBBE será constituído de dinheiro, bens móveis, imóveis, legados, marcas e patentes, ou direitos a ela transferidos, incorporados ou por ela adquiridos, oriundos de qualquer pessoa, natural ou jurídica, pública ou privada, associado(a) ou não, que serão registrados em nome da SBBE, e apenas sendo permitida a sua aplicação na execução de seus fins, nos termos do Estatuto Social e pelas disposições normativas aplicáveis, sendo vedado aos(às) seus(suas) membros(as) exercer propriedade ou composse sobre este patrimônio.
+
+
+      **§1°** A SBBE apenas poderá emprestar aos(às) seus(suas) membros(as) associados(as) bens móveis constantes de seu patrimônio, mediante aprovação da Diretoria Administrativa e assinatura do Termo de Responsabilidade, com o devido prazo de entrega.
+
+
+      **§2°** Em caso de perda ou danos ao bem emprestado, o(a) associado(a) responsável deverá arcar com a compra de novo objeto idêntico ao bem perdido, com mesma qualidade, ou com os custos referentes ao conserto dos danos decorrentes da falta de cuidado ou má utilização do objeto, sendo vedado o pedido de reembolso.
+
+
+      **§3°** Em caso de compra de objeto idêntico ao perdido, com qualidade superior, sendo o novo bem mais caro do que o que foi perdido, terá o(a) associado(a) responsável direito ao reembolso no que diz respeito à diferença de preços, mediante apresentação de comprovante de compra à Diretoria Administrativa.
+
+
+      **§4°** Em caso de perda motivada por furto, ou roubo, dotado de grave ameaça ou violência, é dever do(a) membro(a), para ficar desobrigado à ressarcir o patrimônio da SBBE, ter, para fins comprobatórios legais, o devido registro da ação sofrida por meio do boletim de ocorrência (B.O), documento este que pode ser expedido pela Polícia Federal (PF), pela Polícia Militar (PM), pela Polícia Civil (PC), pela Guarda Municipal (GM) ou e pelo Corpo de Bombeiros.
+
+
+      **§5º** Os bens imóveis do seu ativo pertencentes ao patrimônio da SBBE só poderão ser alienados, gravados ou doados, no todo ou em parte, por deliberação da Assembleia Geral Extraordinária, especialmente convocada para este fim.
+       
+
+      **§6º** Ao decidir sobre alienação ou gravame de bens imóveis, a Assembleia Geral Extraordinária deliberará, no mesmo ato, sobre a destinação dos recursos decorrentes da operação.
+
+
+      **§7°** Será permitido a realização de reembolso aos(às) membros(as) referente a gastos realizados em nome da SBBE previamente acordado com a Diretoria Administrativa e posteriormente comprovados para esta.
+
+    time: Art. 6°
+
+  - content: >
+        No caso de dissolução da SBBE, o respectivo patrimônio líquido será destinado nos mesmos moldes previstos no artigo 6°,  §5º deste Estatuto. 
+
+    time: Art. 7º
+
+  - content: >
+      Constituem receitas da SBBE: 
+        I - Anuidades de seus(suas) associados(as);
+
+        II - Donativos, legados, heranças, cessão de direitos, doações e contribuições e as subvenções de qualquer natureza; 
+
+        III - Produtos de festivais, campanhas, concursos e eventos congêneres; 
+        IV - Rendimentos resultantes da gestão de seu patrimônio; 
+
+        V - Produtos comercializados com a marca SBBE;
+
+        VI - Subvenções, editais de patrocínio ou outros auxílios governamentais que auxiliem em suas atividades e eventos.
+
+        Parágrafo único. Em caso de doações voluntárias de pessoas físicas ou jurídicas, de direito público ou privado, nacionais ou estrangeiras, o(a) doador(a) terá o direito de solicitar recibos e Notas Fiscais da SBBE.
+
+    time: Art. 8°
+
+  - content: >
+      Observado o disposto neste Estatuto Social, a SBBE tem autonomia patrimonial, administrativa e financeira, inclusive com relação a seus(suas) associados(as) e parceiros(as). 
+
+    time: Art. 9°
+
+  - content: >
+      A prestação de contas dos recursos recebidos pela SBBE se dará no encerramento de cada ano e, consequentemente, do exercício fiscal, devendo observar primordialmente os princípios da rapidez, publicidade, transparência financeira e sustentabilidade, devendo ser apresentado relatório de atividades e das demonstrações financeiras, incluindo-se as certidões negativas de débitos junto aos órgãos competentes. 
+
+    time: Art. 10
+
+  - content: >
+      Todo patrimônio e receitas da SBBE deverão ser investidos nos objetivos a que se destina a entidade, ressalvados os gastos despendidos e bens necessários e úteis a seu funcionamento administrativo. 
+
+    time: Art. 11
+
+  - content: >
+      A SBBE não remunera seus(suas) associados(as) em razão das atividades administrativas prestadas serem de caráter voluntário, não havendo nenhum vínculo empregatício. Nessa conjuntura, é vedada a distribuição de lucros ou vantagens, observado o disposto nos parágrafos seguintes. 
+
+
+      **§1º** Excepcionalmente, de acordo com a natureza e a necessidade do serviço a ser realizado, poderão ser contratadas outras pessoas jurídicas ou físicas, as quais, poderão ser remuneradas pela prestação de seus serviços. 
+
+
+      **§2º** Os gastos comprovadamente despendidos pelos(as) associados(as) ou colaboradores(as) da SBBE na realização do objeto social da associação ou para o seu benefício, serão reembolsados, desde que previamente aprovados pela Diretoria de Tesouraria Geral. 
+
+    time: Art. 12
+
+titlecap4: Da composição social e responsabilidade de seus(suas) associados(as)
+cap4:
+
+  - content: >
+      Poderá associar-se à SBBE a pessoa que for interessada em participar das atividades desenvolvidas. 
+
+      Parágrafo único. Uma vez associada, a pessoa realizará atividades voluntárias e/ou pagará auxílio financeiro em favor da SBBE, respeitando os dispositivos normativos vigentes, devendo assinar um termo de voluntariado e sigilo ao ser efetivada, na forma da Lei nº 9.608/1998. 
+
+    time: Art. 13
+
+  - content: >
+        Os(As) membros(as) não responderão, solidária ou subsidiariamente, pelas obrigações assumidas pela Associação. 
+
+        Parágrafo único. A responsabilidade dos atos praticados pelos(as) associados(as) que de alguma forma extrapolarem os limites deste Estatuto será de quem os praticou. 
+
+    time: Art. 14
+
+  - content: >
+      A nenhum membro(a) será instituída a responsabilidade de representação da entidade sem que porte devidamente o instrumento expresso e determinado de outorga ou delegação feita pelo(a) Diretor(a) Presidente. 
+
+    time: Art. 15
+
+titlecap4_I: Seção I - Dos direitos e deveres dos(as) associados(as)
+cap4_I:
+  - content: >
+      São direitos de todos(as) os(as) associados(as): 
+
+
+      I - participar das Assembleias Gerais ordinárias e/ou extraordinárias, com direito a voz, a voto e a ser votado para cargos específicos; 
+
+
+      II - propor a adoção de medidas e manifestar-se acerca das atividades sociais que julgarem convenientes ao interesse social da SBBE;
+
+
+      III - fazer parte de comissões e receber delegações e outorgas da Diretoria Administrativa; 
+
+
+      IV - recorrer à Assembléia Geral contra atos de Diretores(as), da Diretoria Administrativa e do Conselho Fiscal, na forma deste Estatuto;
+
+
+      V - convocar Assembleias Gerais, na forma deste Estatuto; 
+
+
+      VI - solicitar informações, a qualquer tempo, relativas às atividades da SBBE;
+
+
+      VII - candidatar-se aos cargos da Diretoria; 
+
+
+      VIII - solicitar licenciamento, na forma deste documento; 
+
+
+      IX - retirar-se da associação, nas formas previstas no Estatuto Social; 
+
+
+      X - o direito de ampla defesa e recurso em caso de qualquer penalidade; 
+
+
+      XI - solicitar reembolso de gastos pessoais que foram destinados à obtenção ou promoção de alguma ação ou objeto da SBBE; 
+
+
+      XII - ter acesso livre ao Estatuto Social e Regimento Interno. 
+
+    time: Art. 16
+
+  - content: >
+     São deveres de todos(as) os(as) associados(as): 
+
+
+      I - conhecer e cumprir as disposições deste Estatuto e de demais documentos que regule os atos da SBBE e acatar as deliberações válidas dos órgãos deliberativos e administrativos; 
+
+
+      II - colaborar com a promoção da SBBE, cumprindo e observando as disposições do Estatuto Social, assim como das demais normas internas da entidade; 
+
+
+      III - informar e provocar a atuação dos órgãos deliberativos, nas hipóteses de descumprimento deste Estatuto e outros documentos que regulem as ações dos(as) membros(as) na SBBE, bem como comunicar à Diretoria Administrativa qualquer circunstância ou fato lesivo aos interesses da associação; 
+
+
+      IV - utilizar o patrimônio da SBBE para qualquer necessidade decorrente da associação, sendo vetado o seu uso para benefício próprio de qualquer membro independente do cargo, mediante autorização da Diretoria Administrativa; 
+
+
+      V - auxiliar na realização dos objetivos sociais elencados neste Estatuto;
+
+
+      VI - realizar o pagamento da anuidade da associação;
+
+
+      VII - desempenhar com dignidade todas as atribuições dos cargos para os quais eventualmente venham exercer, bem como outros compromissos que aceitarem, atuando com presteza, transparência, ética, pontualidade e profissionalismo nas tarefas que lhe são confiadas e afastando qualquer conduta que possa comprometer o nome e a imagem da SBBE; 
+
+
+      VIII - manter atualizados seus dados cadastrais junto à SBBE, em especial o endereço de seu correio eletrônico; 
+
+
+      IX - obedecer ao termo de voluntariado e sigilo assinado; 
+
+
+      X - comparecer às Assembleias e Reuniões Gerais, respeitando as devidas exceções a serem justificadas e avaliadas pela Diretoria; 
+
+
+      XI - o zelo patrimonial da SBBE e seus objetivos sociais, assim como sua imagem e reputação perante a sociedade; 
+
+
+      XII - respeitar e cumprir, na parcela que lhe cabe, as decisões tomadas por votação em Assembleias Gerais. 
+
+
+      Parágrafo único. Presumem-se lidos após 5 (cinco) dias úteis do seu envio, todos os e-mails oriundos de algum cargo da Diretoria Administrativa e do Conselho Fiscal aos endereços eletrônicos cadastrados pelos(as) membros(as) juntos à associação. 
+
+    time: Art. 17
+
+titlecap4_II: Seção II - Da retirada, da exclusão e do licenciamento 
+cap4_II:
+  - content: >
+      O(A) membro(a) associado(a) que desejar se retirar da SBBE deverá encaminhar comunicação formal, por escrito, para a Diretoria Administrativa, que estabelecerá o prazo para o desligamento efetivo.
+    time: Art. 18
+
+  - content: >
+      Os(As) membros(as) que descumprirem as determinações deste Estatuto ou do Regimento Interno, bem como das demais resoluções válidas das Diretorias ou da Assembleia Geral, resguardado o direito de defesa e recurso, estarão sujeitos à aplicação das seguintes penalidades: 
+
+
+      I - advertência; 
+
+
+      II - desligamento.
+
+
+      **§1º** O(A) associado(a) que for submetido(a) a algum tipo de penalidade terá sempre resguardado seu direito à ampla defesa e ao contraditório, incluindo hipótese de recurso à Assembleia Geral. 
+
+
+      **§2º** A aplicação das penas é função da Diretoria Administrativa, salvo casos em que esta esteja impossibilitada por motivos de vacância ou ser o alvo da punição, movido pelos(as) associados(as).  
+
+
+      **§3°** As formas de advertência serão detalhadas pela Diretoria Administrativa em documento divulgado a todos(as) associados(as).
+
+    time: Art. 19
+
+  - content: >
+      O(A) membro(a) associado(a) será desligado(a) do quadro social, resguardado o direito de defesa, da SBBE por justa causa nos casos de: 
+
+
+      I - decisão fundamentada da Diretoria de Presidência, como resultado de violação estatutária ou regimental; 
+
+
+      II - prática de ato incompatível com os fins da SBBE, ou com suas formas de atuação; 
+
+
+      III - não cumprimento dos deveres perante à SBBE durante 3 (três) meses;
+
+
+      IV - inadimplência do pagamento da anuidade da associação por dois anos consecutivos;
+
+
+      V - falecimento; 
+
+
+      VI - pedido de desligamento voluntário.
+
+
+      Parágrafo único. Com ressalva dos incisos IV e V, nos casos descritos nesse artigo, serão resguardados ao(à) associado(a) o direito de defesa e de recurso à Assembleia Geral.
+  
+    time: Art. 20
+
+  - content: >
+      É vedada a aplicação de qualquer penalidade sem prévia notificação formal ao(à) associado(a), assegurando-lhe o direito à ampla defesa no prazo de 5 (cinco) dias úteis. 
+
+
+      **§1º** A notificação prévia a qualquer membro(a), independente do cargo que ocupe, caberá à Diretoria de Presidência, a quem poderá ser direcionada explicação escrita dentro de um prazo máximo de 7 (sete) dias corridos.
+
+
+      **§2º** Caso o(a) Diretor(a) Presidente seja o alvo da notificação, caberá ao(à) Diretor(a) Tesoureiro(a) Geral notificá-lo(a), assumindo também o papel de receptor da explicação escrita dentro de um prazo máximo de 7 (sete) dias corridos. 
+
+    time: Art. 21
+
+  - content: >
+      Da decisão acerca da exclusão de membro(a), caberá, dentro do prazo de 7 (sete) dias corridos, recurso à Assembléia Geral, especialmente convocada para deliberar sobre a penalidade, na qual será, antes do início das discussões, assegurado ao(à) membro(a) o direito de se manifestar acerca do processo. 
+
+    time: Art. 22
+
+  - content: >
+      O desligamento do(a) membro(a) não exclui sua responsabilidade pelo cumprimento de obrigações assumidas enquanto associado(a), até a data do efetivo desligamento, sob pena de responsabilidade civil, salvo decisão em contrário da Diretoria Administrativa. 
+
+    time: Art. 23
+
+titlecap5: Organização admnistrativa
+cap5:
+
+  - content: >
+      São órgãos da administração da SBBE:
+
+
+
+      I - Assembleia Geral; 
+
+
+
+      II - Conselho Fiscal; 
+
+
+
+      III - Diretoria Administrativa. 
+
+
+      **§1º** A SBBE adotará meios e maneiras de organização administrativa, necessárias e suficientes, a fim de coibir a obtenção, individual ou coletiva, de benefícios ou vantagens pessoais, em decorrência da participação no respectivo processo decisório. 
+
+
+      **§2º** O exercício do cargo em órgão da SBBE não é delegável. 
+
+
+      **§3º** O(A) presidente das reuniões da Assembleia Geral e da Diretoria Administrativa será o(a) Diretor(a) Presidente da SBBE, que terá o voto decisório em caso de empate nas votações. Em sua ausência ou vacância, substitui-lo(a)-á o(a) Diretor(a) Tesoureiro(a) Geral, assumindo todos os encargos da presidência da reunião, dentre elas o voto decisório. 
+
+    time: Art. 24°
+
+titlecap5_I: Seção I - Da Assembleia Geral 
+cap5_I:
+  - content: >
+      A Assembleia Geral é o órgão máximo da SBBE e tem poderes para decidir a respeito das questões relativas ao seu objeto, bem como tomar todas as resoluções que julgar conveniente à sua defesa e desenvolvimento.
+
+    time: Art. 25
+
+  - content: >
+      A Assembleia Geral reunir-se-á: 
+
+
+      I - ordinariamente, uma vez ao ano, para a deliberação de contas, das demonstrações financeiras e dos resultados referentes à gestão findada, bem como para eleição da nova Diretoria Administrativa;
+
+
+      II - extraordinariamente, sempre que haver o interesse social para a realização.
+
+
+      Parágrafo único. As Assembleias Gerais poderão ser realizadas tanto nas modalidades presencial e/ou virtual, a ser comunicado na convocação.
+
+    time: Art. 26
+
+  - content: >
+      As Assembleias Gerais serão convocadas: 
+
+
+      I - por iniciativa própria de, pelo menos, 2 (dois/duas) membros(as) do Conselho Fiscal; 
+
+
+      II - pelo(a) Diretor(a) Presidente;
+
+
+      III - pelo(a) Diretor(a) Secretário Geral em nome do(a) Diretor(a) Presidente;
+
+
+      IX - a requerimento de, pelo menos, ⅕ (um quinto) dos(as) membros(as) associados(as); 
+
+
+      **§1º** As convocações serão mediante correio eletrônico enviado a todos os(as) membros(as) com a antecedência mínima de 30 (trinta) dias, com exceção da remarcação da assembléia nos termos previstos neste Estatuto que deve ser convocada com no mínimo 7 (sete) dias de antecedência; a convocação deverá conter e especificar o dia da reunião, além de, resumidamente, a ordem do dia. 
+
+
+      **§2º** As Assembleias Gerais serão constituídas pela reunião dos(as) membros(as) que estão em pleno gozo de seus direitos sociais. 
+
+
+      **§3º** Terão poder de voto os(as) membros(as) associados(as). 
+
+
+      **§4º** Considerar-se-á regularmente convocado(a) o(a) membro(a) que comparecer à Assembleia Geral. 
+
+
+      **§5º** As Assembleias Gerais irão se instalar, em primeira convocação, com a presença de associados(as) que representem, pelo menos, 1/5 (um quinto) dos(as) associados(as) votantes e, em segunda convocação, 30 (trinta) minutos após o horário originalmente designado, 1/10 (um décimo) dos(as) associados(as) votantes; 
+
+
+      **§6°** É vedado o direito de voto por procuração. 
+
+
+      **§7°** A pauta e a documentação-suporte serão enviadas para os membros Associados com pelo menos 5 (cinco) dias de antecedência de Assembleias Gerais.
+
+    time: Art. 27
+
+  - content: >
+      Todas as decisões serão tomadas em Assembleia Geral pela maioria simples de votos dos(as) associados(as) votantes presentes no ato, com exceção daqueles que tenham por objeto: 
+
+
+      I - deliberar sobre a destituição de seus(suas) Diretores(as); 
+
+
+      II - alterar este Estatuto Social; 
+
+
+      III - a alienação, gravação ou doação de bens imóveis pertencentes ao patrimônio da SBBE;
+
+
+      VI - Assembleia de Extinção da Associação. 
+
+
+      **§1°** Nas hipóteses acima, o quórum de decisão é de ⅔ (dois terços) de votos dos(as) associados(as) presentes votantes na Assembleia Geral especialmente convocada para este fim, não podendo haver deliberação, em primeira convocação, sem que esteja presente a maioria absoluta dos(as) seus(suas) associados(as). 
+
+
+      **§2º** Os trabalhos da Assembleia Geral serão dirigidos pelo(a) Diretor(a) Presidente, que terá voto minerva em caso de empate nas votações. Na ausência, vacância ou impedimento do(a) Diretor(a) Presidente, este(a) será substituído(a) pelo(a) Diretor(a) vice-presidente, Diretor Secretário(a) geral ou Diretor(a) Tesoureiro(a) Geral.
+
+
+      **§3º** Em caso de ausência completa da Diretoria Administrativa, devidamente justificada e comunicada a todos(as) por e-mail com no mínimo 02 (duas) horas de antecedência, a Assembleia Geral será remarcada.
+
+
+      **§4º** Em caso de vacância completa da Diretoria Administrativa, a Assembleia Geral deverá começar e ter continuidade, tendo como primeira pauta a deliberação dos candidatos aos cargos e a eleição dos mesmos.
+
+
+      **§5°** Dos trabalhos e deliberações da Assembleia Geral será lavrada ata, em forma de sumário dos fatos ocorridos, assinada pelos(as) membros(as) da mesa e associados(as) presentes. Para a validação da ata será necessária as assinaturas de tantos(as) associados(as) quanto bastem para constituir a maioria requerida para as deliberações tomadas em Assembleia Geral. 
+
+
+      **§6º** O direito de voto em Assembleia Geral é conferido exclusivamente aos(às) associados(as) efetivos da SBBE, desde que estejam em pleno gozo de seus direitos de associados(as), sendo vedado o voto por procuração.
+
+    time: Art. 28
+
+  - content: >
+      Compete à Assembleia Geral: 
+
+
+      I - eleger os(as) membros(as) para compor a Diretoria Administrativa; 
+
+
+      II - destituir os(as) membros(as) que compõem a Diretoria Administrativa; 
+
+
+      III - apreciar, examinar e aprovar o relatório da Diretoria, o Balanço Patrimonial e demais demonstrações financeiras; 
+
+
+      IV - opinar, quando especialmente convocada para esse fim, sobre planos de expansão ou programa de ação apresentados pela Diretoria Administrativa; 
+
+
+      V - propor e aprovar alterações no Estatuto Social e no Regimento Interno; 
+
+
+      VI - apreciar recurso em matéria de penalização dos(as) associados(as); 
+
+
+      VII - decidir sobre a dissolução da SBBE. 
+
+    time: Art. 29
+
+titlecap5_II: Seção II  - Do Conselho Fiscal
+cap5_II:
+  - content: >
+      O Conselho Fiscal é um órgão independente de consulta e assessoramento à Diretoria Administrativa da SBBE, sendo composto por membros(as) associados(as) e externos(as) à Diretoria Administrativa vigente. 
+
+
+      **§1º** As reuniões do Conselho Fiscal serão convocadas, por e-mail, sempre que o interesse social assim o exigir, pelo(a) Diretor(a) Presidente e/ou Diretor(a) Tesoureiro(a) Geral ou por, pelo menos, 1 (um) dos(as) membros(as) em exercício do Conselho Fiscal, sempre com antecedência mínima de 1 (uma) semana.
+
+
+      **§2º** A convocação deverá informar o dia e horário da reunião, bem como, resumidamente, a ordem do dia. 
+
+
+      **§3º** Considerar-se-á regularmente convocado o(a) Conselheiro(a) que comparecer à Reunião. 
+
+
+      **§4º** As decisões serão tomadas por maioria dos votos dos(as) presentes. 
+
+
+      **§5º** Serão considerados(as) presentes os(as) que participarem inclusive por meios eletrônicos de qualquer natureza.
+
+    time: Art. 30
+
+  - content: >
+      Os(As) membros(as) do Conselho Fiscal serão indicados(as) pela Diretoria Administrativa. 
+
+
+      **§1º** O Conselho Fiscal não possui número fixo de integrantes, devendo, contudo, ser formado por, no mínimo, 3 (três) integrantes, podendo ampliar tal quantidade, desde que fixado em algum algarismo ímpar. 
+
+
+      **§2º** O mandato dos(as) integrantes do Conselho Fiscal é de uma gestão bienal, permitida a recondução ao cargo. 
+
+    time: Art. 31
+
+  - content: >
+      Compete aos(às) membros(as) do Conselho Fiscal as seguintes atribuições e responsabilidades: 
+
+
+      I - contribuir com pareceres técnicos a serem analisados pela Diretoria Administrativa; 
+
+
+      II - participar das reuniões da Diretoria Administrativa quando convidado(a) com o objetivo de expor ideias e contribuir com o objeto social da SBBE, sempre que solicitado por aquele órgão; 
+
+
+      III - sempre que o interesse social exigir, dar parecer quanto às políticas da Diretoria Administrativa que orientam as atividades gerais da SBBE, respeitando os princípios gerais adotados pelos(as) associados(as); 
+
+
+      IV - apoiar a Diretoria Administrativa especialmente nos planos de captação de recursos e acompanhar a realização dos Planos de Ação e a Proposta Orçamentária; 
+
+
+      V - acompanhar as deliberações sobre o patrimônio, investimento e gestão financeira;
+
+
+      VI - propor a alteração do Estatuto Social à Assembleia Geral;
+
+
+      VII - decidir sobre as questões que lhe forem submetidas pela Diretoria Administrativa; 
+
+
+      VIII - convocar a Assembleia Geral, na forma deste Estatuto; 
+
+
+      IX - participar da elaboração e revisão do Planejamento Estratégico e acompanhar a execução do mesmo;
+
+
+      X - fiscalizar e aprovar as contas da gestão, gerando, se necessário, eventuais responsabilizações civis e penais cabíveis.
+
+
+    time: Art. 32 
+
+titlecap5_III: Seção III - Da Diretoria Administrativa
+cap5_III:
+  - content: >
+      A Diretoria Administrativa, integrada por todos(as) os(as) Diretores(as), é o órgão de direção, planejamento, coordenação, execução e controle, investida dos poderes de administração e representação da SBBE, de forma a assegurar a consecução de seus objetivos, observando e fazendo observar o presente Estatuto e as deliberações da Assembleia Geral. 
+
+      Parágrafo único. Os(As) membros(as) da Diretoria Administrativa não responderão, nem mesmo subsidiariamente, pelas obrigações contraídas pela SBBE, ressalvados os casos em que o ordenamento jurídico brasileiro assim dispuser. 
+
+    time: Art. 33
+
+  - content: >
+      Os(As) membros(as) da Diretoria Administrativa, assim como qualquer associado(a) à SBBE, não receberão qualquer remuneração pelo desempenho de suas funções, assegurado no entanto, aos(às) diretores(as), como também a todos(as) os(as) membros(as) associados(as), o direito de ressarcimento por qualquer despesa efetuada na consecução dos projetos da SBBE, mediante comprovação e autorização do(a) responsável.  
+
+      Parágrafo único. Em caso de vacância do(a) responsável, caberá à Diretoria de Presidência comprovar e autorizar esses repasses.
+
+    time: Art. 34
+
+  - content: >
+      A Diretoria Administrativa será composta por:
+
+
+      I - 1 (um/uma)  Presidente;
+
+
+      II - 1 (um/uma) Vice-Presidente;
+
+
+      III - 1 (um/uma) Tesoureiro(a) Geral;
+
+
+      IV - 1 (um/uma) Segundo(a)-Tesoureiro(a);
+
+
+      V - 1 (um/uma) Secretário Geral;
+
+
+      VI - 1 (um/uma) Segundo(a)-Secretário(a).
+
+
+      **§1º** Todos os cargos serão eleitos pela Assembleia Geral, dentre os(as) membros(as) associados(as) que demonstrarem interesse na candidatura, regulamentada em Edital próprio.
+
+
+      **§2º** O afastamento injustificado do cargo superior a 15 (quinze) dias corridos será considerado vacância. 
+
+
+      **§3º** Em caso de afastamento justificado do cargo superior a 30 (trinta) dias corridos será considerado vacância.
+
+
+      **§4º** É facultado a cada Diretor(a) delegar competências aos(às) membros(as) que a ele(a) se subordinam, conforme as necessidades da SBBE e eventuais previsões do Regimento Interno, dentro do âmbito das responsabilidades específicas estabelecidas neste Estatuto, exceto as competências de tomadas de decisão da associação. 
+
+
+      **§5º** O mandato do(a) Diretor(a) será de 3 (três) anos civis, podendo haver uma única reeleição para o cargo já desempenhado.
+
+
+      **§6º** As reuniões da Diretoria Administrativa serão convocadas pelo(a) Diretor(a) Presidente, pelo(a) Diretor(a) Secretário(a) Geral, ou pelo(a) Diretor(a) Tesoureiro(a) Geral. 
+
+
+      **§7º** As deliberações nas reuniões da Diretoria Administrativa serão tomadas por consenso entre os(as) Diretores(as), de modo que, em casos de discordância, a questão em debate deverá ser votada pelos(as) membros(as) da SBBE. 
+
+
+      **§8º** Os cargos elencados nos itens II, IV, V e VI poderão ser vacantes.
+
+
+      **§9º** O processo eleitoral será objeto do Regimento Interno da SBBE.
+
+    time: Art. 35
+
+  - content: >
+      Compete aos(às) Diretores(as):
+
+
+      I - administrar a SBBE, estabelecendo suas prioridades e executando os programas da associação; 
+
+
+      II - propor e executar políticas e planos estratégicos, bem como implementar os programas criados e prioridades estabelecidas; 
+
+
+      III - dirigir, orientar, delegar e coordenar o funcionamento da SBBE, observando o fiel cumprimento das políticas traçadas, os planos, programas e projetos da organização; 
+
+
+      IV - submeter à Assembleia Geral as propostas Orçamentária e Programática anuais e sua implementação; 
+
+
+      V - praticar atos administrativos para a gestão da organização; 
+
+
+      VI - fornecer ao Conselho Fiscal os elementos de informação necessários ao acompanhamento permanente das atividades da SBBE;
+
+
+      VII - assegurar o desenvolvimento e implementação de ações relativas ao objeto da SBBE, fazendo cumprir sua missão, prioridades, estratégias e seus programas de atuação; 
+
+
+      VIII - propor a alteração do Estatuto Social e do Regimento Interno à Assembleia Geral; 
+
+
+      IX - convocar a Assembleia Geral, na forma deste Estatuto; 
+
+
+      X - editar portarias com intuito de regular o funcionamento interno de suas diretorias; 
+
+
+      XI - zelar pela qualidade das atividades exercidas e de seus resultados; 
+
+
+      XII - coordenar o processo de avaliação de desempenho;
+
+
+      XIII - realizar o ajuste ou reajuste da anuidade da associação, mediante a apresentação aos(às) membros(as) dos motivos da mudança.
+
+
+    time: Art. 36
+
+  - content: >
+      A Diretoria Administrativa poderá nomear mandatários(as) com poderes específicos, escolhidos, inclusive, dentre os(às) demais membros(as) da SBBE, observando-se as seguintes diretrizes: 
+
+      a) O mandato não poderá ter duração superior a 01 (um) ano, salvo aqueles conferidos para defesa em processos administrativos ou judiciais; 
+
+      b) O mandato deve ser outorgado mediante assinatura, de pelo menos, dois(duas) diretores(as) em exercício do mandato. 
+
+      Parágrafo único. Excetua-se o caso de ausência ou vacância da Presidência, quando seus poderes deverão ser outorgados preferencialmente ao(à) Tesoureiro(a) Geral. Apenas estando este(a) também ausente ou vacante, caberá mandatário(a) nos moldes supracitados. 
+
+    time: Art. 37
+
+titlecap5_III_I: Subseção I - Da Diretoria de Presidência
+cap5_III_I:
+    
+  - content: >
+      Ao(À) Diretor(a) Presidente compete: 
+
+
+      I - promover o relacionamento externo, desenvolver, fortalecer e manter a imagem institucional da SBBE perante os(as) parceiros(as) e demais relacionamentos estratégicos da associação; 
+
+
+      II - cumprir e fazer cumprir as normas de atuação da SBBE, no que se refere a sua política de planejamento, estratégia, gestão de pessoas, relações exteriores, projetos, administração e finanças; 
+
+
+      III - cumprir e fazer cumprir as resoluções e determinações da Assembleia Geral e da Diretoria Administrativa; 
+
+
+      IV - convocar e presidir, na forma deste Estatuto, as reuniões da Diretoria Administrativa e das Assembleias Gerais, sempre que forem necessárias; 
+
+
+      V - rubricar os livros que registrarem os procedimentos institucionais; 
+
+
+      VI - confeccionar e apresentar para a Assembleia Geral relatório bienal sobre as atividades da SBBE; 
+
+
+      VII - assinar os documentos que gerem obrigações de qualquer natureza para a SBBE;
+
+
+      VIII - estabelecer parcerias estratégicas para entidade que visem à consecução dos objetivos sociais; 
+
+
+      IX - zelar pelo bom relacionamento, pelo ambiente amistoso de trabalho e pela qualidade máxima da gestão das informações e do conhecimento entre os(as) membros(as) da SBBE; 
+
+
+      X - representar a SBBE, judicial e extrajudicialmente, ativa e passivamente; 
+
+
+      XI - promover o desenvolvimento de congressos sobre Biologia Evolutiva;
+
+
+      XII - organizar o processo eleitoral; 
+
+
+      XIII - fazer o intermédio da relação entre a SBBE e o Conselho Fiscal; 
+
+
+      XIV - assumir o cargo da Diretoria de Tesouraria se vacante, incumbindo-se de todas as competências e responsabilidades advindas do cargo; 
+
+
+      XV - demais funções delegadas em Assembleia e reunião da Diretoria Administrativa. 
+
+
+      Parágrafo único. Em caso de ausência ou vacância do(a) Diretor(a) Presidente, o(a) Diretor(a) Tesoureiro(a) Geral assumirá a responsabilidade das competências, inclusive de assinar documentos de competência da Diretoria de Presidência. 
+
+    time: Art. 38
+
+titlecap5_III_II: Subseção II - Da Diretoria de Vice-Presidência
+cap5_III_II:
+
+  - content: >
+      Ao(À) Diretor(a) Vice-Presidente compete:
+
+      I - substituir o(a) Diretor(a) Presidente em suas faltas ou impedimentos eventuais;
+
+      II - auxiliar o(a) Diretor(a) Presidente no exercício de suas funções;
+
+    time: Art. 39
+
+titlecap5_III_III: Subseção III - Da Diretoria de Tesouraria Geral
+cap5_III_III:    
+  
+  - content: >
+      Ao(À) Diretor(a) Tesoureiro(a) Geral compete:
+
+
+      I - arrecadar e contabilizar as contribuições dos(as) associados(as), rendas, auxílios e donativos, mantendo em dia a escrituração;
+
+
+      II - pagar as contas autorizadas pelo(a) Diretor(a) Presidente;
+
+
+      III - apresentar relatórios de receita e despesas, sempre que forem solicitados;
+
+
+      IV - apresentar o relatório financeiro para ser submetido à Assembleia Geral;
+
+
+      V - apresentar anualmente o balancete ao Conselho Fiscal;
+
+
+      VI - conservar, sob sua guarda e responsabilidade, os documentos relativos à tesouraria;
+
+
+      VII - manter todo o numerário em estabelecimento de crédito;
+
+
+      VIII - assinar, com o(a) Diretor(a) Presidente, documentos que envolvam responsabilidade financeira da entidade; 
+
+
+      IX - assinar, em conjunto com o(a) Diretor(a) Presidente, os contratos e editais pelos quais a SBBE se obrigar; 
+
+
+      X - realizar as movimentações financeiras em estabelecimentos bancários, à escolha da Diretoria, em nome da SBBE, os valores em dinheiro arrecadados;  
+
+
+      XI - elaborar o planejamento econômico-financeiro e orçamentário para cada exercício,  fazendo seu acompanhamento para identificação de desvios e proposição das correções necessárias, visando a obtenção dos resultados esperados no curto, médio e longo prazos;
+
+
+      XII - realizar o controle interno de pagamento da anuidade.
+
+    time: Art. 40
+
+titlecap5_III_IV: Subseção IV - Da Diretoria de Segunda-Tesouraria
+cap5_III_IV: 
+
+  - content: >
+      Ao(À) Diretor(a) Segundo(a) Tesoureiro(a) compete:
+
+
+      I - substituir o(a) Diretor(a) Tesoureiro(a) Geral em suas faltas ou impedimentos eventuais;
+
+
+      II - auxiliar o(a) Diretor(a) Tesoureiro(a) Geral no exercício de suas funções; 
+
+    time: Art. 41
+
+titlecap5_III_V: Subseção V - Da Diretoria de Secretaria Geral
+cap5_III_V: 
+
+  - content: >
+      Ao(À) Diretor(a) Secretário(a) Geral compete:
+
+
+      I - substituir o(a) Diretor(a) Vice-Presidente em suas faltas ou impedimentos eventuais;
+
+
+      II - auxiliar o(a) Diretor(a) Presidente nas providências de ordem administrativa;
+
+
+      III - manter e desenvolver as relações da SBBE com associações congêneres nacionais ou internacionais;
+
+
+      IV - expedir convocação, em nome do(a) Diretor(a) Presidente ou da maioria de seus diretores, para as Reuniões da Diretoria;
+
+
+      V - registrar em ata resumida os assuntos tratados na reunião da Diretoria;
+
+
+      VI - expedir convocação, em nome do(a) Diretor(a) Presidente, para as Assembleias Gerais;
+
+
+      VII - registrar em ata os assuntos tratados nas Assembleias Gerais;
+
+
+      VIII - manter atualizado o cadastro dos associados;
+
+
+      IX - coordenar as relações com as Secretarias Regionais.   
+
+    time: Art. 42
+
+titlecap5_III_VI: Subseção VI - Da Diretoria de Segunda-Secretaria
+cap5_III_VI: 
+  - content: >
+      Ao(À) Diretor(a) Segundo(a) Secretário(a) compete:
+
+
+      I - substituir o(a) Diretor(a) Secretário(a) Geral em suas faltas ou impedimentos eventuais;
+
+
+      II - auxiliar o(a) Diretor(a) Secretário(a) Geral  no exercício de suas funções.
+
+    time: Art. 43
+
+titlecap6: Do encerramento das atividades
+cap6:
+
+  - content: >
+      A SBBE somente poderá ser dissolvida por voto de ⅔ (dois terços) de todos(as) os(as) membros(as) associados(as) votantes, em Assembleia Geral convocada especialmente para esse fim. 
+
+
+      Parágrafo único. Decorridos 30 (trinta) minutos, caso o quórum estabelecido no §5º do art. 28 deste Estatuto não seja atingido, a Assembleia Geral será remarcada. 
+
+    time: Art. 44°
+
+  - content: >
+        Depois de dissolvida a SBBE, quaisquer dos bens que integram o seu patrimônio somente poderão ser alienados para o pagamento das dívidas legais que a entidade tenha assumido, até a data da deliberação da sua dissolução.
+
+    time: Art. 45
+
+  - content: >
+      Dissolvida a SBBE, o remanescente do seu patrimônio líquido será destinado a outra instituição sem fins lucrativos a ser escolhida pela Assembleia de Extinção, em atenção ao Código Civil de acordo com o seu artigo 61. 
+
+    time: Art. 46
+
+titlecap7: Das disposições finais e transitórias
+cap7:
+
+  - content: >
+      O exercício social da SBBE coincidirá com o ano civil, iniciando-se em 1 de janeiro e findando em 31 de dezembro.
+
+    time: Art. 47
+
+  - content: >
+      Os mandatos dos(as) membros(as) do Conselho Fiscal e da Diretoria Administrativa consideram-se automaticamente prorrogados até a posse de seus(suas) sucessores(as).
+
+    time: Art. 48
+
+  - content: >
+      A Diretoria Administrativa disciplinará as matérias de sua competência no Regimento Interno.
+
+    time: Art. 49
+
+  - content: >
+      Eventuais alterações estatutárias concernentes às Diretorias vigorarão a partir da posse da próxima Diretoria Administrativa.
+
+    time: Art. 50
+
+  - content: >
+      Ao fim de cada gestão serão levantadas as demonstrações financeiras e preparado o relatório da Diretoria Administrativa referente ao período, relacionando as receitas e despesas verificadas durante a parte do exercício em questão, para apreciação e aprovação da Assembleia Geral.
+
+    time: Art. 51
+
+  - content: >
+      Fica eleito oForo da Comarca de Natal para dirimir qualquer dúvida em relação ao presente Estatuto Social. 
+
+    time: Art. 52

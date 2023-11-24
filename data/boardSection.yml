@@ -1,0 +1,73 @@
+---
+enable: true
+title_board: >
+  ## Diretoria
+
+service_board:
+  - content: >
+      ### Presidente
+
+      #### George Pacheco
+
+      Pesquisador Pós-Doc na Universidade de Oslo
+
+    emailto: "mailto:george.pacheco@ibv.uio.no"
+    email: george.pacheco@ibv.uio.no
+    image: images/service/George_circle.png
+  - content: >
+      ### Secretário Geral
+
+      #### Felipe Torquato 
+
+      
+    image: images/service/background-shape.svg
+  - content: >
+      ### Diretor de Assuntos Estudantis
+
+      #### Matheus Salles
+
+      Pesquisador doutorando na Universidade Federal do Paraná
+      
+    image: images/service/background-shape.svg
+  - content: >
+      ### Codiretora de Comunicação
+
+      #### Fernanda S. Caron
+
+      Pesquisadora doutoranda na Universidade Federal do Paraná
+
+    emailto: mailto:fernandacaron@ufpr.br
+    email: fernandacaron@ufpr.br
+    image: images/service/Fernanda_circle.png
+  - content: >
+      ### Codiretor de Comunicação
+
+      #### Junior Nadaline
+
+      Pesquisador doutorando na Universidade Federal do Paraná
+
+    image: images/service/background-shape.svg
+
+title_counselors: >
+  ## Conselheiros
+
+service_counselors:
+  - content: >
+      ### Primeiro conselheiro
+
+      #### Fabricius M. C. B. Domingos
+
+    emailto: ""
+    email: 
+    image: images/service/background-shape.svg
+  - content: >
+      ### Segundo conselheiro
+
+      #### Ana Paula Assis
+      
+    image: images/service/background-shape.svg
+  - content: >
+      ### Terceiro conselheiro
+
+    image: images/service/background-shape.svg
+

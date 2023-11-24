@@ -1,0 +1,237 @@
+{{ with .Site.Data.statuteSection }}
+{{ if .enable }}
+<section class="section resume" id="statute">
+    <div class="resume__background"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="resume__heading">
+                    <div class="text-light">
+                        {{ .title | markdownify }}
+                    </div>
+
+                    <div class="btn-group-vertical nav mr-6" role="toolbar">
+                        <a href="#{{.tab1Target}}" class="btn btn-primary active" data-toggle="tab">{{ .tab1Name }}</a>
+                            
+                        <a href="#{{.tab2Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab2Name }}</a>
+                        
+                        <a href="#{{.tab3Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab3Name }}</a>
+                        
+                        <a href="#{{.tab4Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab4Name }}</a>
+                        
+                        <a href="#{{.tab5Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab5Name }}</a>
+                        
+                        <a href="#{{.tab6Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab6Name }}</a>
+                        
+                        <a href="#{{.tab7Target}}" class="btn btn-primary" data-toggle="tab">{{ .tab7Name }}</a>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="tab-content ">
+                    
+                    <div class="resume__education tab-pane active" id="{{.tab1Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap1 }}</h4>
+                        <br>
+                        {{ $Section := .cap1 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+                    
+                    <div class="resume__education tab-pane" id="{{.tab2Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap2 }}</h4>
+                        <br>
+                        {{ $Section := .cap2 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    <div class="resume__education tab-pane" id="{{.tab3Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap3 }}</h4>
+                        <br>
+                        {{ $Section := .cap3 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    <div class="resume__education tab-pane" id="{{.tab4Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap4 }}</h4>
+                        <br>
+                        {{ $Section := .cap4 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h5 class="mb-0 text-light">{{ .titlecap4_I }}</h5>
+                        <br>
+                        {{ $Section := .cap4_I }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h5 class="mb-0 text-light">{{ .titlecap4_II }}</h5>
+                        <br>
+                        {{ $Section := .cap4_II }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+
+                    <div class="resume__education tab-pane" id="{{.tab5Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap5 }}</h4>
+                        <br>
+                        {{ $Section := .cap5 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h5 class="mb-0 text-light">{{ .titlecap5_I }}</h5>
+                        <br>
+                        {{ $Section := .cap5_I }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h5 class="mb-0 text-light">{{ .titlecap5_II }}</h5>
+                        <br>
+                        {{ $Section := .cap5_II }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h5 class="mb-0 text-light">{{ .titlecap5_III }}</h5>
+                        <br>
+                        {{ $Section := .cap5_III }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_I }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_I }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_II }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_II }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_III }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_III }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_IV }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_IV }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_V }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_V }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+
+                        <h6 class="mb-0 text-light">{{ .titlecap5_III_VI }}</h6>
+                        <br>
+                        {{ $Section := .cap5_III_VI }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    <div class="resume__education tab-pane" id="{{.tab6Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap6 }}</h4>
+                        <br>
+                        {{ $Section := .cap6 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    <div class="resume__education tab-pane" id="{{.tab7Target}}">
+                        <h4 class="mb-0 text-light">{{ .titlecap7 }}</h4>
+                        <br>
+                        {{ $Section := .cap7 }}
+                        {{ range $Section }}
+                        <div class="resume__education_item">
+                            <span class="pre-line text-primary"> {{ .time }} </span>
+                            {{ .content | markdownify }}
+                        </div>
+                        {{ end }}
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
