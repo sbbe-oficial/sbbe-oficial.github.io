@@ -20,7 +20,7 @@ service_board:
       #### Felipe Torquato 
 
       
-    image: images/service/background-shape.svg
+    image: images/service/Felipe_circle.png
   - content: >
       ### Diretor de Assuntos Estudantis
 
@@ -65,7 +65,7 @@ service_counselors:
 
       #### Ana Paula Assis
       
-    image: images/service/background-shape.svg
+    image: images/service/Ana_Paula_circle.png
   - content: >
       ### Terceiro conselheiro
 
