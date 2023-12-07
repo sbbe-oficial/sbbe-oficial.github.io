@@ -1,4 +1,4 @@
-baseURL = 'https://sbbe-oficial.github.io/'
+baseURL = 'https://github.com/sbbe-oficial/sbbe-oficial.github.io_/tree/main/docs'
 title = 'My New Hugo Site'
 theme = 'portio'
 languageCode = 'en-us'
