@@ -1,6 +1,7 @@
 baseURL = '/'
 title = 'My New Hugo Site'
 theme = 'portio'
+languageCode = 'en-us'
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -34,23 +35,6 @@ weight = 7
 name = "Contact"
 url = "#contact"
 weight = 8
-
-defaultContentLanguage = 'pt'
-[languages]
-  [languages.pt]
-    disabled = false
-    languageCode = 'pt-br'
-    languageDirection = 'ltr'
-    languageName = 'Português'
-    title = ''
-    weight = 1
-  [languages.en]
-    disabled = false
-    languageCode = 'en-us'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = ''
-    weight = 2
 
 # Sitemap Menu
 [[menu.sitemap]]
