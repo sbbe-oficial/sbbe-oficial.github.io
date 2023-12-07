@@ -12,7 +12,7 @@ relativeURLs = "true"
 #canonifyURLs = "true"
 
 # Local
-baseURL = "https://github.com/sbbe-oficial/sbbe-oficial.github.io_/tree/main/docs"
+baseURL = "docs/"
 publishDir = "public"
 
 # Remote
