@@ -11,7 +11,6 @@ service_board:
 
       Postdoc Researcher at the University of Oslo
 
-    emailto: "mailto:george.pacheco@ibv.uio.no"
     email: george.pacheco@ibv.uio.no
     image: images/service/George_circle.png
   - content: >
@@ -19,7 +18,7 @@ service_board:
 
       #### Felipe Torquato 
 
-      
+    email: 
     image: images/service/Felipe_circle.png
   - content: >
       ### Director of Student Affairs
@@ -27,7 +26,8 @@ service_board:
       #### Matheus Salles
 
       PhD researcher at the Federal University of Paraná
-      
+    
+    email:
     image: images/service/background-shape.svg
   - content: >
       ### Communications Co-Director
@@ -36,7 +36,6 @@ service_board:
 
       PhD researcher at the Federal University of Paraná
 
-    emailto: mailto:fernandacaron@ufpr.br
     email: fernandacaron@ufpr.br
     image: images/service/Fernanda_circle.png
   - content: >
@@ -46,6 +45,7 @@ service_board:
 
       PhD researcher at the Federal University of Paraná
 
+    email:
     image: images/service/background-shape.svg
 
 title_counselors: >
@@ -57,17 +57,18 @@ service_counselors:
 
       #### Fabricius M. C. B. Domingos
 
-    emailto: ""
     email: 
     image: images/service/background-shape.svg
   - content: >
       ### Second advisor
 
       #### Ana Paula Assis
-      
+    
+    email:
     image: images/service/Ana_Paula_circle.png
   - content: >
       ### Third advisor
 
+    email:
     image: images/service/background-shape.svg
 
