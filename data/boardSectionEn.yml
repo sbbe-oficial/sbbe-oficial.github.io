@@ -1,0 +1,74 @@
+---
+enable: true
+title_board: >
+  ## Board
+
+service_board:
+  - content: >
+      ### President
+
+      #### George Pacheco
+
+      Postdoc Researcher at the University of Oslo
+
+    email: george.pacheco@ibv.uio.no
+    image: images/service/George_circle.png
+  - content: >
+      ### General secretary
+
+      #### Felipe Torquato 
+
+    email: 
+    image: images/service/Felipe_circle.png
+  - content: >
+      ### Director of Student Affairs
+
+      #### Matheus Salles
+
+      PhD researcher at the Federal University of Paraná
+    
+    email:
+    image: images/service/background-shape.svg
+  - content: >
+      ### Communications Co-Director
+
+      #### Fernanda S. Caron
+
+      PhD researcher at the Federal University of Paraná
+
+    email: fernandacaron@ufpr.br
+    image: images/service/Fernanda_circle.png
+  - content: >
+      ### Communications Co-Director
+
+      #### Junior Nadaline
+
+      PhD researcher at the Federal University of Paraná
+
+    email:
+    image: images/service/background-shape.svg
+
+title_counselors: >
+  ## Advisors
+
+service_counselors:
+  - content: >
+      ### First advisor
+
+      #### Fabricius M. C. B. Domingos
+
+    email: 
+    image: images/service/background-shape.svg
+  - content: >
+      ### Second advisor
+
+      #### Ana Paula Assis
+    
+    email:
+    image: images/service/Ana_Paula_circle.png
+  - content: >
+      ### Third advisor
+
+    email:
+    image: images/service/background-shape.svg
+

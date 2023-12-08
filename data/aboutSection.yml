@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: Sobre
+title: >
+  ## A sociedade
+
+content: >
+  A SBBE busca unir estudiosos de Biologia Evolutiva, estimular pesquisas, fortalecer laços com sociedades similares, representar os biólogos evolutivos brasileiros, difundir conhecimento na sociedade e promover cursos de Biologia Evolutiva na graduação e pós-graduação.
+button1Name: Estatuto
+button2Name: Afilie-se
+button1Target: "#statute"
+button2Target: contact
+image: images/ave.png

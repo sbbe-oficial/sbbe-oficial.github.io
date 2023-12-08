@@ -1,0 +1,801 @@
+---
+enable: true
+title: >
+  ## Social Statute
+
+tab1Name: Chapter I
+tab2Name: Chapter II
+tab3Name: Chapter III
+tab4Name: Chapter IV
+tab5Name: Chapter V
+tab6Name: Chapter VI
+tab7Name: Chapter VII
+tab1Target: cap1
+tab2Target: cap2
+tab3Target: cap3
+tab4Target: cap4
+tab5Target: cap5
+tab6Target: cap6
+tab7Target: cap7
+
+titlecap1:  Title, Headquarters, Purpose, Duration, and Nature
+cap1:
+
+  - content: >
+      The Brazilian Society of Evolutionary Biology, hereinafter referred to as BSEB, is a legal entity of private law, constituted as a Civil Association, non-profit, with scientific, educational, social, and political purposes, governed by this Social Statute and applicable regulatory provisions.
+
+
+      **§1** The organization and functioning of SBBE are established through Internal Regulations and other documents, drafted by the Administrative Board and approved in a General Assembly, in accordance with the provisions of this Social Statute.
+
+
+      **§2** The headquarters of BSEB is located at the address Laboratory of Evolutionary Cytogenetics and Animal Conservation, Department of Genetics, Biological Sciences Sector, Federal University of Paraná, Colonel Francisco H. dos Santos Avenue, 210 — Jardim das Américas, Curitiba — PR, 81530-001, Brazil.
+
+    time: Art. 1
+
+  - content: >
+        The duration of SBBE is indeterminate.
+
+    time: Art. 2
+
+titlecap2: Principles and Social Objectives
+cap2:
+
+  - content: >
+      The BSEB adopts the following principles:
+
+        I. Absolute commitment to the scientific method and the use of scientific evidence as a guiding principle for social conduct;
+
+        II. Visibility for social minorities;
+
+        III. Gender equality;
+
+        IV. Respect for diversity;
+
+        V. Inclusion;
+
+        VI. Ethics;
+
+        VII. Efficiency;
+
+        VIII. Cooperation;
+
+        IX. Financial transparency;
+
+        X. Transparent communication;
+
+        XI. Dissemination and instrumentalization of research produced;
+
+        XII. Promotion of innovative scientific production.
+
+    time: Art. 3
+
+  - content: >
+      The objectives of BSEB are:
+
+        I. Bring together and promote communication among scholars in the field of Evolutionary Biology;
+
+        II. Promote and encourage activities and studies related to Evolutionary Biology;
+
+        III. Stimulate contact with international and national societies with similar purposes;
+
+        IV. Represent Brazilian evolutionary biologists to the National and International Scientific Community, as well as to governmental and private entities;
+
+        V. Promote the dissemination of knowledge of Evolutionary Biology to Brazilian society, including the promotion of scientific evidence in Evolutionary Biology as a guide for public policies;
+
+        VI. Encourage the creation of Evolutionary Biology courses at the undergraduate and postgraduate levels.
+
+      **§1** To achieve the above objectives, BSEB may:
+
+        a) Produce, publish, distribute, and disseminate articles, books, journals, videos, films, photos, and similar materials;
+
+        b) Document, through all means, its various activities, as well as facts and situations related to its purposes;
+
+        c) Enter into contracts and agreements and/or associate with other natural or legal persons, public or private, provided that SBBE does not subordinate itself to the partner;
+
+        d) Raise financial resources from donors, whether natural or legal persons, members or non-members;
+
+        e) Develop means of communication in various media to promote its actions and disseminate its research;
+
+        f) Establish institutional relationships and affiliations within the limits of its objectives with other associations and companies;
+
+        g) Hold regular meetings for the presentation and discussion of works and to foster the exchange of ideas among its members;
+
+        h) Organize scientific events (congresses, symposia, conferences, workshops), where its members will gather to discuss presented works;
+
+        i) Promote and sponsor the formation of regional nuclei of this association;
+
+        j) Organize popularization conferences, scientific dissemination, and various Evolutionary Biology-related courses;
+
+        k) Provide financial aid for the training of evolutionary biologists nationally and internationally;
+
+        l) Carry out other activities consistent with the statutory objectives.
+
+      **§2** The actions specified in items H, I, and K above will be detailed and regulated for the members through a document produced and disseminated by the Administrative Board.
+
+    time: Art. 4
+
+  - content: >
+      In carrying out its activities, BSEB will not allow any type of discrimination for any reason, prioritizing ethics and the realization of human rights, which is fundamental for the effective functioning of society.
+
+    time: Art. 5
+
+titlecap3: Assets, Revenue, and Resource Allocation
+cap3:
+
+  - content: >
+      The assets of BSEB shall consist of money, movable and immovable property, legacies, trademarks, patents, or rights transferred, incorporated, or acquired by it from any natural or legal person, public or private, member or non-member. These shall be registered in the name of BSEB, and its application is permitted solely for the execution of its purposes, in accordance with the Social Statute and applicable regulatory provisions. Members of BSEB are prohibited from exercising ownership or co-possession over these assets.
+
+      **§1** BSEB may only lend movable assets from its assets to its associate members with the approval of the Administrative Board and the signing of a Responsibility Agreement, with the specified delivery period.
+
+      **§2** In case of loss or damage to the borrowed item, the responsible member must bear the cost of purchasing a new identical object or cover the costs of repairing damages resulting from negligence or misuse of the item, with no reimbursement allowed.
+
+      **§3** If the acquired replacement item is of superior quality and more expensive than the lost one, the responsible member is entitled to reimbursement for the price difference upon presentation of the purchase receipt to the Administrative Board.
+
+      **§4** In the event of loss due to theft or robbery involving serious threat or violence, the member, to be exempt from reimbursing BSEB's assets, must have a legally valid record of the incident through a police report (B.O), which can be issued by the Federal Police (PF), Military Police (PM), Civil Police (PC), Municipal Guard (GM), or Fire Department.
+
+      **§5** The immovable assets belonging to BSEB can only be alienated, encumbered, or donated, in whole or in part, by resolution of an Extraordinary General Assembly, specifically convened for this purpose.
+
+      **§6** When deciding on the alienation or encumbrance of immovable property, the Extraordinary General Assembly shall also decide on the destination of the resources resulting from the operation.
+
+      **§7** Reimbursement to members for expenses incurred on behalf of BSEB, previously agreed upon with the Administrative Board and subsequently proven, is allowed.
+
+    time: Art. 6
+
+  - content: >
+        In the event of the dissolution of BSEB, the respective net assets will be allocated in the same manner as provided in Article 6, §5 of this Statute.
+
+    time: Art. 7
+
+  - content: >
+      The revenues of BSEB include:
+
+        I. Annual fees from its members;
+
+        II. Donations, legacies, inheritances, assignment of rights, donations, contributions, and subsidies of any kind;
+
+        III. Proceeds from festivals, campaigns, contests, and similar events;
+
+        IV. Income resulting from the management of its assets;
+
+        V. Products sold under the BSEB brand;
+
+        VI. Subsidies, sponsorship announcements, or other government aid that supports its activities and events.
+
+        In the case of voluntary donations from individuals or legal entities, whether public or private, national or foreign, the donor has the right to request receipts and invoices from BSEB.
+
+    time: Art. 8
+
+  - content: >
+      Subject to the provisions of this Social Statute, BSEB has financial, administrative, and patrimonial autonomy, including with respect to its members and partners.
+
+    time: Art. 9
+
+  - content: >
+      The accountability of the resources received by BSEB will occur at the end of each year and, consequently, at the end of the fiscal year. It must primarily observe the principles of speed, publicity, financial transparency, and sustainability. A report of activities and financial statements, including negative debt certificates from competent authorities, must be presented.
+
+    time: Art. 10
+
+  - content: >
+      All assets and revenues of BSEB must be invested in the objectives for which the entity is intended, except for expenses incurred and assets necessary and useful for its administrative functioning.
+
+    time: Art. 11
+
+  - content: >
+      BSEB does not remunerate its members for administrative activities, as these are voluntary. There is no employment relationship, and the distribution of profits or advantages is prohibited, with the following exceptions:
+
+        **§1** Exceptionally, according to the nature and necessity of the service to be performed, other legal or natural persons may be contracted, and they may be remunerated for their services.
+
+        **§2** Expenses incurred by members or collaborators of BSEB in carrying out the association's social objectives or for its benefit will be reimbursed, provided they are previously approved by the General Treasury Directorate.
+
+    time: Art. 12
+
+titlecap4: Social Composition and Responsibility of its Members
+cap4:
+
+  - content: >
+      Any person interested in participating in the activities developed by BSEB may become a member.
+
+      Sole Paragraph: Once admitted as a member, the individual will engage in voluntary activities and/or provide financial assistance to BSEB, respecting current regulatory provisions. They must sign a volunteer and confidentiality agreement upon admission, as per the provisions of Law No. 9.608/1998.
+
+    time: Art. 13
+
+  - content: >
+        Members shall not be jointly or severally liable for the obligations assumed by the Association.
+
+        Sole Paragraph: The responsibility for acts committed by members that in any way exceed the limits of this Statute shall rest with the individual who committed them.
+
+    time: Art. 14
+
+  - content: >
+      No member shall be vested with the responsibility of representing the entity without duly possessing a specific and express instrument of authorization or delegation issued by the Director President.
+
+    time: Art. 15
+
+titlecap4_I: Section I - Rights and Duties of Members
+cap4_I:
+  - content: >
+      All members have the following rights:
+
+        I. Participate in ordinary and/or extraordinary General Assemblies, with the right to voice, vote, and run for specific positions;
+
+        II. Propose the adoption of measures and express opinions on social activities that they consider convenient for the social interest of BSEB;
+
+        III. Be part of committees and receive delegations and grants from the Administrative Board;
+
+        IV. Appeal to the General Assembly against the acts of Directors, the Administrative Board, and the Fiscal Council, as per this Statute;
+
+        V. Convene General Assemblies, as per this Statute;
+
+        VI. Request information, at any time, regarding the activities of BSEB;
+
+        VII. Run for positions on the Board;
+
+        VIII. Request a leave of absence, as per this document;
+
+        IX. Withdraw from the association, as provided in the Social Statute;
+
+        X. The right to a full defense and appeal in case of any penalty;
+
+        XI. Request reimbursement of personal expenses incurred for the acquisition or promotion of any action or object of BSEB;
+
+        XII. Have free access to the Social Statute and Internal Regulations.
+
+    time: Art. 16
+
+  - content: >
+     All members are obliged to:
+
+      I. Understand and comply with the provisions of this Statute and other documents regulating the acts of BSEB, and adhere to the valid resolutions of the deliberative and administrative bodies;
+
+      II. Collaborate in promoting BSEB, complying with and observing the provisions of the Social Statute, as well as other internal rules of the entity;
+
+      III. Inform and provoke the action of deliberative bodies in the event of non-compliance with this Statute and other documents regulating the actions of members in BSEB, as well as notify the Administrative Board of any circumstance or fact detrimental to the interests of the association;
+
+      IV. Use BSEB's assets for any needs arising from the association, with their use for the personal benefit of any member vetoed, regardless of their position, with authorization from the Administrative Board;
+
+      V. Assist in achieving the social objectives listed in this Statute;
+
+      VI. Pay the association's annual fee;
+
+      VII. Perform with dignity all the duties of the positions they may eventually hold, as well as other commitments they accept, acting with promptness, transparency, ethics, punctuality, and professionalism in the tasks entrusted to them, and avoiding any conduct that may compromise the name and image of BSEB;
+
+      VIII. Keep their registration information updated with BSEB, especially their email address;
+
+      IX. Obey the signed volunteer and confidentiality agreement;
+
+      X. Attend General Assemblies and Meetings, respecting the justified exceptions to be evaluated by the Board;
+
+      XI. Ensure the stewardship of BSEB and its social objectives, as well as its image and reputation in society;
+
+      XII. Respect and comply, in their capacity, with decisions made by vote in General Assemblies.
+
+      Sole Paragraph: Emails sent from any position in the Administrative Board and the Fiscal Council to the email addresses registered by members with the association are deemed read after 5 (five) business days of their dispatch.
+
+    time: Art. 17
+
+titlecap4_II: Section II - Withdrawal, Exclusion, and Licensing
+cap4_II:
+  - content: >
+      A member wishing to withdraw from BSEB must submit a formal written communication to the Administrative Board, which will establish the deadline for effective disengagement.
+
+    time: Art. 18
+
+  - content: >
+      Members who violate the provisions of this Statute or the Internal Regulations, as well as other valid resolutions of the Boards or the General Assembly, subject to the right of defense and appeal, may be subject to the following penalties:
+
+        I. Warning;
+
+        II. Disengagement.
+
+      **§1** Members subjected to any form of penalty have the right to a full defense and the opportunity for appeal, including the option to appeal to the General Assembly.
+
+      **§2** The imposition of penalties is the responsibility of the Administrative Board, unless prevented by reasons of vacancy or being the target of punishment, initiated by the members.
+
+      **§3** The forms of warning will be detailed by the Administrative Board in a document disseminated to all members.
+
+    time: Art. 19
+
+  - content: >
+      A member may be disengaged from the association, preserving the right to defense, for just cause in cases of:
+
+        I. A reasoned decision by the Presidency Board, as a result of statutory or regulatory violation;
+
+        II. The commission of an act incompatible with the purposes of BSEB or its modes of operation;
+
+        III. Non-compliance with duties towards BSEB for 3 (three) months;
+
+        IV. Non-payment of the association's annual fee for two consecutive years;
+
+        V. Death;
+
+        VI. Voluntary withdrawal request.
+
+        Sole Paragraph: Except for items IV and V, in cases described in this article, the member has the right to defense and appeal to the General Assembly.
+  
+    time: Art. 20
+
+  - content: >
+      No penalty may be imposed without prior formal notification to the member, ensuring the right to a full defense within 5 (five) business days.
+
+      **§1** The prior notification to any member, regardless of the position held, will be the responsibility of the Presidency Board, to whom a written explanation may be directed within a maximum period of 7 (seven) calendar days.
+
+      **§2** If the President is the target of the notification, it is the responsibility of the Treasurer General to notify and act as the recipient of the written explanation within a maximum period of 7 (seven) calendar days.
+
+    time: Art. 21
+
+  - content: >
+      The decision regarding the exclusion of a member may be appealed within a period of 7 (seven) calendar days to the General Assembly, specially convened to deliberate on the penalty. Before the start of the discussions, the member will be given the right to express themselves about the process.
+
+    time: Art. 22
+
+  - content: >
+      The disengagement of a member does not exempt them from their responsibility for fulfilling obligations assumed while a member until the effective disengagement date, under penalty of civil liability, unless otherwise decided by the Administrative Board.
+
+    time: Art. 23
+
+titlecap5: Administrative Organization
+cap5:
+
+  - content: >
+      The organs of BSEB's administration are:
+
+        I. General Assembly;
+
+        II. Fiscal Council;
+
+        III. Administrative Board.
+
+      **§1** BSEB will adopt necessary and sufficient means and methods of administrative organization to prevent the individual or collective acquisition of personal benefits or advantages resulting from participation in the respective decision-making process.
+
+      **§2** The exercise of a position in BSEB's organs is not delegable.
+
+      **§3** The President of the General Assembly and the Administrative Board will be the President of BSEB, who will have the decisive vote in the event of a tie. In their absence or vacancy, the Treasurer General will replace them, assuming all the responsibilities of the meeting's presidency, including the decisive vote.
+
+    time: Art. 24°
+
+titlecap5_I: Section I - General Assembly
+cap5_I:
+  - content: >
+      The General Assembly is the highest body of BSEB and has the power to decide on matters related to its purpose, as well as to make all resolutions it deems convenient for its defense and development.
+
+    time: Art. 25
+
+  - content: >
+      The General Assembly will meet:
+
+
+      I - ordinarily, once a year, to deliberate on accounts, financial statements, and results for the concluded management, as well as to elect the new Administrative Board;
+
+
+      II - extraordinarily, whenever there is a social interest in doing so.
+
+
+
+      Sole Paragraph. As General Assemblies may be conducted in person and/or virtually, as communicated in the convocation.
+
+    time: Art. 26
+
+  - content: >
+      The General Assemblies will be convened:
+
+
+      I - on the initiative of at least two members of the Fiscal Council;
+
+
+      II - by the President Director;
+
+
+      III - by the Secretary General Director on behalf of the President Director;
+
+
+      IX - upon request of at least 1/5 of the associate members.
+
+
+      **§1º** The convocations will be sent via email to all members at least 30 days in advance, except for rescheduled assemblies, which must be called at least 7 days in advance. The convocation must specify the day of the meeting and briefly outline the agenda.
+
+
+      **§2º** General Assemblies will be composed of members in full compliance with their social rights.
+
+
+      **§3º** Voting rights are granted to associate members.
+
+
+      **§4º** A member who attends the General Assembly is considered regularly convened.
+
+
+      **§5º** General Assemblies will be installed, on the first call, with the presence of members representing at least 1/5 of the voting associates and, on the second call, 30 minutes after the originally scheduled time, with 1/10 of the voting associates.
+
+
+      **§6°** Proxy voting is prohibited.
+
+
+      **§7°** The agenda and supporting documentation will be sent to Associate members at least 5 days before General Assemblies.
+
+    time: Art. 27
+
+  - content: >
+      All decisions will be made in the General Assembly by a simple majority of votes of the voting associates present, except for those that concern:
+
+
+      I - the removal of Directors;
+
+
+      II - amendments to this Social Statute;
+
+
+      III - the sale, encumbrance, or donation of real estate belonging to BSEB;
+
+
+      VI - assembly for the Extinction of the Association.
+
+
+      **§1°** In the above cases, the decision quorum is 2/3 of the votes of the associates present at the General Assembly specially convened for this purpose. There can be no deliberation, on the first call, without the presence of the absolute majority of its associates.
+
+
+      **§2º** The General Assembly's proceedings will be chaired by the President Director, who will have the casting vote in the event of a tie. In the absence, vacancy, or impediment of the President Director, they will be replaced by the Vice President Director, Secretary General Director, or Treasurer General Director.
+
+
+      **§3º** In case of complete absence of the Administrative Board, duly justified and communicated to all by email at least 2 hours in advance, the General Assembly will be rescheduled.
+
+
+      **§4º** In case of complete vacancy of the Administrative Board, the General Assembly must start and continue, with the first agenda being the deliberation of the candidates for the positions and their election.
+
+
+      **§5°** Minutes will be drawn up for the proceedings and deliberations of the General Assembly, summarizing the events, signed by the members of the table and associates present. The validation of the minutes will require the signatures of as many associates as necessary to constitute the majority required for the deliberations taken in the General Assembly.
+
+
+      **§6º** The right to vote in the General Assembly is granted exclusively to effective associates of BSEB, provided they are in full compliance with their associate rights, and proxy voting is prohibited.
+
+
+    time: Art. 28
+
+  - content: >
+      The General Assembly has the authority to:
+
+        I. Elect members to compose the Administrative Board;
+
+        II. Remove members who make up the Administrative Board;
+
+        III. Appreciate, examine, and approve the report of the Board, the Balance Sheet, and other financial statements;
+
+        IV. Express an opinion, when specially convened for this purpose, on expansion plans or action programs presented by the Administrative Board;
+
+        V. Propose and approve changes to the Social Statute and Internal Regulations;
+
+        VI. Appreciate appeals regarding the penalization of associates;
+
+        VII. Decide on the dissolution of BSEB.
+
+    time: Art. 29
+
+titlecap5_II: Section II  - Fiscal Council
+cap5_II:
+  - content: >
+      The Fiscal Council is an independent body for consultation and assistance to the Administrative Board of BSEB, composed of member associates and individuals external to the current Administrative Board.
+
+      **§1** Meetings of the Fiscal Council will be called by email whenever the social interest demands it, by the President and/or Treasurer General or by at least 1 of the members in office of the Fiscal Council, always with a minimum of 1 week's notice.
+
+      **§2** The call must inform the day and time of the meeting, as well as, briefly, the agenda.
+
+      **§3** The Councilor who attends the Meeting will be considered regularly summoned.
+
+      **§4** Decisions will be made by a majority of the votes of those present.
+
+      **§5** Those who participate, including by electronic means of any kind, will be considered present.
+
+    time: Art. 30
+
+  - content: >
+      Fiscal Council members will be appointed by the Administrative Board.
+
+        **§1** The Fiscal Council does not have a fixed number of members but must be formed by at least 3 members, with the possibility of expanding this number, provided it is an odd figure.
+
+        **§2** The term of office of Fiscal Council members is biennial, with the possibility of reappointment.
+
+    time: Art. 31
+
+  - content: >
+      The members of the Fiscal Council have the following attributions and responsibilities:
+
+        I - contribute with technical opinions to be analyzed by the Administrative Board;
+
+        II - participate in meetings of the Administrative Board when invited to present ideas and contribute to the social object of SBBE, whenever requested by that body;
+
+        III - whenever the social interest requires, give an opinion on the policies of the Administrative Board that guide the general activities of SBBE, respecting the general principles adopted by the members;
+
+        IV - support the Administrative Board, especially in fundraising plans, and monitor the implementation of Action Plans and the Budget Proposal;
+
+        V - monitor decisions about assets, investment, and financial management;
+
+        VI - propose changes to the Statute to the General Assembly;
+
+        VII - decide on issues submitted by the Administrative Board;
+
+        VIII - convene the General Assembly, as provided in this Statute;
+
+        IX - participate in the preparation and revision of the Strategic Planning and monitor its execution;
+
+        X - audit and approve the accounts of the management, generating, if necessary, any civil and criminal liabilities.
+
+
+    time: Art. 32 
+
+titlecap5_III: Section III - Administrative Board
+cap5_III:
+  - content: >
+      The Administrative Board, composed of all Directors, is the body of direction, planning, coordination, execution, and control, invested with the powers of administration and representation of SBBE, in order to ensure the achievement of its objectives, observing and enforcing this Statute and the resolutions of the General Assembly.
+
+      Sole Paragraph. Members of the Administrative Board will not respond, even subsidiarily, for obligations contracted by SBBE, except in cases where Brazilian law provides otherwise.
+
+    time: Art. 33
+
+  - content: >
+      Members of the Administrative Board, as well as any associate of SBBE, will not receive any remuneration for the performance of their functions. However, Directors, as well as all member associates, are entitled to reimbursement for any expenses incurred in the achievement of SBBE projects, subject to proof and authorization from the responsible party.
+
+      Sole Paragraph. In the event of a vacancy in the position, it will be the responsibility of the Presidency to prove and authorize these transfers.
+
+    time: Art. 34
+
+  - content: >
+      The Administrative Board will be composed of:
+
+        I - 1 (one) President;
+
+        II - 1 (one) Vice President;
+
+        III - 1 (one) Treasurer General;
+
+        IV - 1 (one) Second Treasurer;
+
+        V - 1 (one) Secretary General;
+
+        VI - 1 (one) Second Secretary.
+
+
+      **§1.** All positions will be elected by the General Assembly from among associate members who demonstrate an interest in candidacy, regulated in their own Notice.
+
+      **§2.** Unjustified removal from office for more than 15 (fifteen) consecutive days will be considered a vacancy.
+
+      **§3.** In the case of justified removal from office for more than 30 (thirty) consecutive days, it will be considered a vacancy.
+
+      **§4.** Each Director may delegate responsibilities to members subordinate to them, as needed by BSEB and any provisions of the Internal Regulations, within the scope of the specific responsibilities established in this Statute, except for the decision-making competencies of the association.
+
+      **§5.** The term of office for the Director will be 3 (three) calendar years, with a single re-election for the same position.
+
+      **§6.** Meetings of the Administrative Board will be called by the President, Secretary General, or Treasurer General.
+
+      **§7.** Decisions at Administrative Board meetings will be made by consensus among the Directors so that, in cases of disagreement, the issue under discussion must be voted on by BSEB members.
+
+      **§8.** The positions listed in items II, IV, V, and VI may be vacant.
+
+      **§9.** The electoral process will be the subject of the Internal Regulations of BSEB.
+
+    time: Art. 35
+
+  - content: >
+      Directors are responsible for:
+
+      I - administering BSEB, establishing its priorities, and executing the association's programs;
+
+      II - proposing and executing policies and strategic plans, as well as implementing created programs and established priorities;
+
+      III - directing, guiding, delegating, and coordinating the operation of BSEB, observing the faithful compliance with the policies outlined, plans, programs, and projects of the organization;
+
+      IV - submitting to the General Assembly the annual Budgetary and Programmatic proposals and their implementation;
+
+      V - performing administrative acts for the management of the organization;
+
+      VI - providing the Fiscal Council with the necessary information for the permanent monitoring of BSEB's activities;
+
+      VII - ensuring the development and implementation of actions related to the purpose of BSEB, ensuring the fulfillment of its mission, priorities, strategies, and programs of action;
+
+      VIII - proposing changes to the Statute and Internal Regulations to the General Assembly;
+
+      IX - convening the General Assembly, in accordance with this Statute;
+
+      X - issuing ordinances to regulate the internal functioning of their directorates;
+
+      XI - ensuring the quality of the activities carried out and their results;
+
+      XII - coordinating the performance evaluation process;
+
+      XIII - adjusting or readjusting the association's annual fee, presenting the reasons for the change to the members.
+
+    time: Art. 36
+
+  - content: >
+      The Administrative Board may appoint representatives with specific powers, chosen, including among other members of BSEB, observing the following guidelines:
+
+      a) The mandate cannot last more than 01 (one) year, except those granted for defense in administrative or judicial proceedings;
+
+      b) The mandate must be granted by the signature of at least two directors in office.
+
+      Sole Paragraph. An exception is made in the case of absence or vacancy in the Presidency when its powers must be preferably delegated to the Treasurer General. Only if the Treasurer General is also absent or vacant will a representative be appointed in the aforementioned manner.
+
+    time: Art. 37
+
+titlecap5_III_I: Subsection I - Presidency Directorate
+cap5_III_I:
+    
+  - content: >
+      The President Director is responsible for:
+
+      I - promoting external relationships, developing, strengthening, and maintaining the institutional image of BSEB with partners and other strategic relationships of the association;
+
+      II - complying and enforcing BSEB's performance standards regarding its planning, strategy, people management, foreign relations, projects, administration, and finances;
+
+      III - complying and enforcing resolutions and determinations of the General Assembly and the Administrative Board;
+
+      IV - convening and presiding over, in accordance with this Statute, meetings of the Administrative Board and General Assemblies, whenever necessary;
+
+      V - initialing the books that record institutional procedures;
+
+      VI - preparing and presenting a biennial report on BSEB's activities to the General Assembly;
+
+      VII - signing documents that generate obligations of any nature for BSEB;
+
+      VIII - establishing strategic partnerships for the entity aimed at achieving social objectives;
+
+      IX - ensuring good relationships, a friendly work environment, and the maximum quality of information and knowledge management among BSEB members;
+
+      X - representing BSEB, judicially and extrajudicially, actively and passively;
+
+      XI - promoting the development of congresses on Evolutionary Biology;
+
+      XII - organizing the electoral process;
+
+      XIII - mediating the relationship between BSEB and the Fiscal Council;
+
+      XIV - assuming the position of Treasury Directorate if vacant, taking on all competencies and responsibilities arising from the position;
+
+      XV - other functions delegated in the General Assembly and Administrative Board meetings.
+
+      Sole Paragraph. In the event of the absence or vacancy of the President Director, the Treasurer General will assume the responsibilities, including signing documents within the scope of the Presidency Directorate.
+
+    time: Art. 38
+
+titlecap5_III_II: Subsection II - Vice Presidency Directorate
+cap5_III_II:
+
+  - content: >
+      The Vice President Director is responsible for:
+
+      I - substituting the President Director in their absences or occasional impediments;
+
+      II - assisting the President Director in the exercise of their functions.
+
+    time: Art. 39
+
+titlecap5_III_III: Subsection III - General Treasury Directorate
+cap5_III_III:    
+  
+  - content: >
+      The General Treasurer Director is responsible for:
+
+      I - collecting and recording the contributions of members, income, aids, and donations, keeping the books up to date;
+
+      II - paying the bills authorized by the President Director;
+
+      III - presenting income and expense reports whenever requested;
+
+      IV - presenting the financial report to be submitted to the General Assembly;
+
+      V - presenting the balance sheet annually to the Fiscal Council;
+
+      VI - keeping, under their guard and responsibility, the documents related to the treasury;
+
+      VII - maintaining all cash in a financial institution;
+
+      VIII - signing, with the President Director, documents involving the financial responsibility of the organization;
+
+      IX - signing, jointly with the President Director, contracts and notices by which the BSEB is obligated;
+
+      X - conducting financial transactions in banking institutions, chosen by the Directorate, on behalf of BSEB, the cash collected;
+
+      XI - preparing the economic-financial and budgetary planning for each fiscal year, monitoring it to identify deviations and proposing necessary corrections, aiming to achieve expected results in the short, medium, and long term;
+
+      XII - overseeing the internal control of the membership fee payment.
+
+    time: Art. 40
+
+titlecap5_III_IV: Subsection IV - Second Treasury Directorate
+cap5_III_IV: 
+
+  - content: >
+      The Second Treasurer Director is responsible for:
+
+      I - substituting for the General Treasurer Director in their absences or occasional impediments;
+
+      II - assisting the General Treasurer Director in the performance of their duties.
+
+    time: Art. 41
+
+titlecap5_III_V: Subsection V - General Secretary Directorate
+cap5_III_V: 
+
+  - content: >
+      The General Secretary Director is responsible for:
+
+      I - substituting for the Vice President Director in their absences or occasional impediments;
+
+      II - assisting the President Director in administrative matters;
+
+      III - maintaining and developing relationships between SBBE and national or international kindred associations;
+
+      IV - issuing summons, on behalf of the President Director or the majority of its directors, for Board Meetings;
+
+      V - recording in summarized minutes the topics discussed in the Board meeting;
+
+      VI - issuing summons, on behalf of the President Director, for General Assemblies;
+
+      VII - recording in minutes the topics discussed in General Assemblies;
+
+      VIII - keeping the membership records updated;
+
+      IX - coordinating relations with Regional Secretariats.
+
+    time: Art. 42
+
+titlecap5_III_VI: Subsection VI - Second Secretary Directorate
+cap5_III_VI: 
+  - content: >
+      The Second Secretary Director is responsible for:
+
+      I - substituting for the General Secretary Director in their absences or occasional impediments;
+
+      II - assisting the General Secretary Director in the exercise of their functions.
+
+    time: Art. 43
+
+titlecap6: Termination of Activities
+cap6:
+
+  - content: >
+      The SBBE can only be dissolved by a vote of ⅔ (two-thirds) of all voting associated members, in a General Assembly specially convened for this purpose.
+
+      Sole Paragraph. After 30 (thirty) minutes, if the quorum established in §5 of article 28 of this Statute is not reached, the General Assembly will be rescheduled.
+
+    time: Art. 44
+
+  - content: >
+        After the dissolution of BSEB, any assets comprising its patrimony can only be sold to pay legal debts that the entity may have assumed up to the date of the resolution of its dissolution.
+
+    time: Art. 45
+
+  - content: >
+      Once dissolved, the remainder of its net assets shall be destined for another non-profit institution to be chosen by the Extinction Assembly, in accordance with the Civil Code, Article 61.
+
+    time: Art. 46
+
+titlecap7: Final and Transitional Provisions
+cap7:
+
+  - content: >
+      The fiscal year of BSEB will coincide with the calendar year, starting on January 1st and ending on December 31st.
+
+    time: Art. 47
+
+  - content: >
+      The terms of the members of the Fiscal Council and the Administrative Board are automatically extended until the inauguration of their successors.
+
+    time: Art. 48
+
+  - content: >
+      The Administrative Board will regulate matters within its competence in the Internal Regulations.
+
+    time: Art. 49
+
+  - content: >
+      Any statutory amendments concerning the Boards will take effect from the inauguration of the next Administrative Board.
+
+    time: Art. 50
+
+  - content: >
+      At the end of each term, financial statements will be prepared, and the Administrative Board's report for the period will be presented, detailing the revenues and expenses incurred during the exercise in question, for the appreciation and approval of the General Assembly.
+
+    time: Art. 51
+
+  - content: >
+      The jurisdiction of the District of Natal is elected to resolve any doubts regarding this Social Statute.
+      
+    time: Art. 52

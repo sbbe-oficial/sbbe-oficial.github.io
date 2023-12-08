@@ -1,0 +1,13 @@
+---
+enable: true
+topTitle: About us
+title: >
+  ## The society
+
+content: >
+  The BSEB seeks to unite Evolutionary Biology scholars, stimulate research, strengthen ties with similar societies, represent Brazilian evolutionary biologists, disseminate knowledge in society and promote Evolutionary Biology courses at undergraduate and postgraduate levels.
+button1Name: Statute
+button2Name: Join
+button1Target: "#statute"
+button2Target: 
+image: images/ave.png
