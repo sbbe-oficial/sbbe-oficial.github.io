@@ -1,6 +1,6 @@
-{{ with .Site.Data.boardSection }}
+{{ with .Site.Data.counselorsSection }}
 {{ if .enable }}
-<section class="section service" id="board">
+<section class="section service" id="counselors">
     <div class="service__background">
         <svg viewBox="0 0 1283 1126">
             <path fill="#f1f6f9" d="M100 0h1183v1126l-1183-80A100 100 0 010 946V100A100 100 0 01100 0z"
@@ -25,15 +25,15 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12">
-                <div class="service__header mb-5">
-                    {{ .title_board | markdownify }}
+                <div class="service__header mb-4">
+                    {{ .title_counselors | markdownify }}
                 </div>
             </div>
         </div>
         <div class="row">
             <div class="col-12">
                 <div class="service__slider">
-                    {{ $Section := .service_board }}
+                    {{ $Section := .service_counselors }}
                     {{ range $Section }}
                     <div class="service__slider_item">
                         <div class="service__slider_item-icon">

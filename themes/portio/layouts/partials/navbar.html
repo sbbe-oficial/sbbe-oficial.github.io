@@ -20,6 +20,10 @@
             class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Diretoria</a>
         </li>
         <li class="nav-item">
+          <a href="#counselors"
+            class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Conselheiros</a>
+        </li>
+        <li class="nav-item">
           <a href="#statute"
             class="nav-link text-dark text-sm-center p-2 {{ if $.IsHome }}scroll{{ end }}">Estatuto</a>
         </li>
@@ -36,7 +40,7 @@
         <a href="" class="btn btn-primary btn-zoom hire_button">Afilie-se</a>
       </div>
       <div class="navbar-nav">
-        <a href="{{ .Site.Params.contactLink | absURL }}" class="btn btn-zoom hire_button">En 🇺🇸</a>
+        <a href="{{ .Site.Params.contactLink | absURL }}" class="btn hire_button text-dark"><strong>EN 🌍</strong></a>
       </div>
     </div>
   </div>
